@@ -1,0 +1,19 @@
+ $$
+ [* declarations *]
+ integer i;
+ integer max;
+ integer sum;
+ sum = 0;
+ i = 1;
+ get ( max);
+ while (i < max) {
+ sum = sum + i;
+ i = i + 1;
+ }
+ sum = sum + max;
+ put (sum);
+
+ if (sum < max) sum = max + 1;
+ otherwise put(sum) ; fi
+
+ $$

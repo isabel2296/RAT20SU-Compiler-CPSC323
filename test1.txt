@@ -1,0 +1,13 @@
+   $$
+   integer      a;
+   integer      b;
+   integer      c;
+
+
+   a=5;
+   b=6;
+   c=0;
+
+   c=a+b;
+
+   $$
