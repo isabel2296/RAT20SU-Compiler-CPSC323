@@ -4,7 +4,8 @@ Write a Lexer Analyzer, Syntax Analyzer using RDP, and Tables to hold assembly l
 Co-writters: Isabel, Joseph, Loai
 
 
-main.cpp - contains Lexer Analyzer 
+main.cpp - contains Lexer Analyzer;
+
 SA.h, SA.cpp - contain the Syntax Analyzer and Production of Tables for assembly instructions
 
 When you execute the executable the user will be prompted to enter a file name. The results of the executable will be located in “outAssembly.txt”, if there are syntax errors the executable program will exit and print the error. Please do the following:
